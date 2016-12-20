@@ -1,0 +1,25 @@
+{
+  "name": "barclays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enjoikumar/barclays.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enjoikumar/barclays/issues"
+  },
+  "homepage": "https://github.com/enjoikumar/barclays#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "next": "^1.2.3"
+  }
+}
